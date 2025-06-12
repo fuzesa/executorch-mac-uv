@@ -4,7 +4,7 @@ You can check their website at https://docs.astral.sh/uv/getting-started/install
 
 2. Clone the repo, the create a virtual environment inside the directory and activate it
 ```shell
-git clone https://github.com/fuzesa/executorch-uv.git
+git clone https://github.com/fuzesa/executorch-mac-uv.git
 cd executorch-uv
 uv venv --python 3.12
 source .venv/bin/activate
