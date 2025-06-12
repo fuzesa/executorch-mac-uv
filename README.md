@@ -1,8 +1,11 @@
 # Setup
-1. Make sure you have `uv` installed
+1. Make sure you have `uv` installed  
+You can check their website at https://docs.astral.sh/uv/getting-started/installation/, but personally I just prefer to install it via HomeBrew `brew install uv`
 
-2. Clone the repo, the create a virtual environment and install the requirements
+2. Clone the repo, the create a virtual environment inside the directory
 ```shell
+git clone https://github.com/fuzesa/executorch-uv.git
+cd executorch-uv
 uv venv --python 3.12
 ```
 
