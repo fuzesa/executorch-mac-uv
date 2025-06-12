@@ -1,0 +1,16 @@
+# Exported models
+*.pte
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Ruff / uv related
+.ruff_cache/
+
+# Virtual environments
+.venv
